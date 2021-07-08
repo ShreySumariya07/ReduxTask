@@ -1,3 +1,11 @@
+# Dependencies to be downloaded:
+npm install 
+npm install redux
+npm install react-redux
+npm install redux-logger
+npm install redux-thunk
+npm install redux-devtools-extension
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
