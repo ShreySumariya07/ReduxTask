@@ -1,10 +1,10 @@
 # Dependencies to be downloaded:
-npm install 
-npm install redux
-npm install react-redux
-npm install redux-logger
-npm install redux-thunk
-npm install redux-devtools-extension
+### `npm install` \
+### `npm install redux`\
+### `npm install react-redux`\
+### `npm install redux-logger`\
+### `npm install redux-thunk`\
+### `npm install redux-devtools-extension`\
 
 # Getting Started with Create React App
 
